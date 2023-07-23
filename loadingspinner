@@ -1,0 +1,73 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome</title>
+    <link rel="shortcut icon" type="image/png" href="images/favicon.png">
+
+    <link rel="stylesheet" href="css/intro.css" />
+
+</head>
+<body>
+
+    <div class="header">
+        <a href="home.html">Click<span> Me </span> </a>      
+    </div>
+
+    <div id="loader"></div>
+
+
+
+
+    <div class="container">
+        <div class="text-wrapper">
+            <div class="text-1 text">welcome to my website</div>
+            <div class="text-2 text">welcome to my website</div>
+            <div class="text-3 text">welcome to my website</div>
+            <div class="text-4 text">welcome to my website</div>
+            <div class="text-5 text">welcome to my website</div>
+            <div class="text-6 text">welcome to my website</div>
+            <div class="text-7 text">welcome to my website</div>
+            <div class="text-8 text">welcome to my website</div>
+            <div class="text-9 text">welcome to my website</div>
+            <div class="text-10 text">welcome to my website</div>
+            <div class="text-11 text">welcome to my website</div>
+
+        </div>
+    </div>
+
+    <script type="text/javascript">
+
+        var loader;
+        function loadNow(opacity) {
+            if(opacity <=0) {
+                displayContent();
+            }
+            else {
+                loader.style.opacity = opacity;
+                window.setTimeout(function() {
+                    loadNow(opacity - 0.07)
+                
+                }, 100);
+    
+            }
+        }
+    
+        function displayContent() {
+            loader.style.display = 'none';
+            document.getElementById('content').style.display = 'block';
+        }
+    
+        document.addEventListener("DOMContentLoaded", function() {
+            loader = document.getElementById('loader');
+            loadNow(1);
+        });
+
+    </script>
+    
+    
+</body>
+</html>
