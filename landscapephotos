@@ -1,0 +1,196 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Landscape Photography</title>
+  <link rel="shortcut icon" type="image/png" href="images/favicon.png">
+
+  <link rel="stylesheet" href="js/lp.js" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/landscapephotography.css">
+</head>
+<body>
+  
+
+<section class="showcase">
+
+    <div class="text">
+        <h2> LANDSCAPE PHOTOGRAPHY </h2>
+    </div>
+
+    <div class="container">
+        <div class="buttons">
+            <a href="portfolio.html" class="btn btn-1">Go back</a>
+        </div>
+    </div>
+
+    <div class="content">
+        <section class="distort">
+            <div>
+                <img src="images/b1.jpg" alt="">
+                <h1>An afternoon sky</h1>
+                <p> The rise of night after a glorious morning marking a new beginning. Not only is the sky magnificent but so is every one if its viwers who immerse themselves in watching her majesty.
+
+                </p>
+            </div>
+            <div>
+                <img src="images/b2.jpg" alt="">
+                <h1>The steep foothills</h1>
+                <p>Across the valleys and the lush greenary exists an ecosystem. Thriving, lively and based off of the beautiful green is the ecosystem of the most fundamental of organisms.
+
+                </p>
+            </div>
+            <div>
+                <img src="images/b3.jpg" alt="">
+                <h1>Grass is always greener on the other side</h1>
+                <p>Grass symbolises green. It exudes what it is like to behold the meaning of such a widely known, used, and adored color. Maybe grass isn't always green on the other side. It is all a matter of perspectives; interestingly so.
+
+                </p>
+            </div>
+            <div>
+                <img src="images/b4.jpg" alt="">
+                <h1>The rising sun</h1>
+                <p>During the scary nights she is gone. Only to return back with the sort of beauty every one takes a pause to look and awe at. The sun is necessary for our existence and capturing her everyday passage is no less of a honor.
+
+                </p>
+            </div>
+            <div>
+                <img src="images/b5.jpg" alt="">
+                <h1>A Bob Ross painting</h1>
+                <p>Would the great artist ever know the impact he has had on the life of the others? Perhaps never but nature is always there. Around us. Watching. Observing. Beckoning us to come closer to her and appreciate her surreal beauty.
+
+                </p>
+            </div>
+            <div>
+                <img src="images/b6.jpg" alt="">
+                <h1>Friendships around the world</h1>
+                <p>Betrayal, trust, love and care are all essential for the proper nurture of a human child. And yet, time and time again we are shown otherwise. Despite this, during our lucky moments we stumble upon the select few who cherish us and see us for who we are- the real friends.
+
+                </p>
+            </div>
+            <div>
+                <img src="images/b7.jpg" alt="">
+                <h1>To be made of 70% water</h1>
+                <p>Three quarters of this world is made of this precious compound. Yet we wage wars. Start fights. Get corrupt due to a lack of it. Has this been the bane of socialism or perhaps we could go back to the ancestral days where the necessities were prioritised.
+
+                </p>
+            </div>
+            <div>
+                <img src="images/b8.jpg" alt="">
+                <h1>A lonely bird</h1>
+                <p>She who is adamently quiet will have more loudness than anyone could decipher. Not only are the mysterious ones the most interesting but they have a certain loudness to their minds. Like the high soaring bird. They will never be caught.
+
+                </p>
+            </div>
+            <div>
+                <img src="images/b9.jpg" alt="">
+                <h1>The spheres on a leaf</h1>
+                <p>Humans have been surviving off of destruction. So how could the plants they burn, bury and eat have such innocent beauty to it. The sort of angelic beauty which would deter any mortal with a soul to stay away. Yet our selfishness barages forward and we are helpless once again.
+
+                </p>
+            </div>
+            <div>
+                <img src="images/b10.jpg" alt="">
+                <h1>A smoky evening</h1>
+                <p> After the dawn of day, the tired father returns back home. He has had a long day to stress himself so that he can provide for a couple few who would rarely recognise his efforts. And so the everyday struggle will pass away like the next evening that comes till the next sun dies.
+
+                </p>
+            </div>
+            <div>
+                <img src="images/b11.jpg" alt="">
+                <h1>But to be colorblind</h1>
+                <p>To not have the physical capability to see the beautiful interplay of the various hues and shades of the world you live in would be the greatest bane a man could endure. To see but not actually. The artistic eye must be painfully built on hatred at such a time.
+
+                </p>
+            </div>
+            <div>
+                <img src="images/b12.jpg" alt="">
+                <h1>To comouflage</h1>
+                <p>The art of hiding and pouncing when one is within the watch of the enemy is a bold turning point in evolution. Not only does the chameleon fool the other but also himself. He surely must believe he is different beings with their different colors if his body so easily transforms.
+
+                </p>
+            </div>
+            <div>
+                <img src="images/b13.jpg" alt="">
+                <h1>The sky is with you</h1>
+                <p>Through this lonely passage of time, the sky is the immortal god. The everlasting superbeing whose beautiful temptation lures us into serenity. Not only does she successfuly have us joyful, but without us even realising so!
+
+                </p>
+            </div>
+            <div>
+                <img src="images/b14.jpg" alt="">
+                <h1>Those tall blades</h1>
+                <p>The perfect happening for a crime scene, the tall blades hide everything behind their deceitful lies. Past secrets. Lies. And importantly the truths we don't want to hear. The kind of truths we run away from. Until our only choice is to face them or die trying
+
+                </p>
+            </div>
+            <div>
+                <img src="images/b15.JPG" alt="">
+                <h1>The red surrender</h1>
+                <p>After a night long walk into the nearby ball of dirt and water and humans who are too pompous for their lack of humility, the red ball of fire is fierce. And never welcoming. The ball in it's full glory is aware of the harm that she holds but she is not afraid.
+
+                </p>
+            </div>
+            <div>
+                <img src="images/b16.jpg" alt="">
+                <h1>Everything is better in Boston</h1>
+                <p> The one born in the town whose name she is not proud of, voyages into the deep dark nothingness of capitalism. Only to return back a power- hungry, soulless being whose entire existence is based off of pleasing the ones who wouldn't go beyond the stairway for her.
+                </p>
+            </div>
+        </section>
+    </div>
+</section>
+
+    <script>
+        const content = document.querySelector("section");
+        let currentPos = window.pageYOffset;
+
+        const callDistort = function () {
+            const newPos = window.pageYOffset;
+            const diff = newPos - currentPos;
+            const speed = diff * 0.35;
+
+            content.style.transform = "skewY(" + speed + "deg)";
+            currentPos = newPos;
+            requestAnimationFrame(callDistort);
+        };
+
+        callDistort();
+    </script>
+
+  </header>
+
+  
+
+</body>
+
+
+<footer>
+    <div class="waves">
+        <div class="wve" id="wve1"></div>
+        <div class="wve" id="wve2"></div>
+        <div class="wve" id="wve3"></div>
+        <div class="wve" id="wve4"></div>
+    </div>
+
+    <ul class="socials">
+    
+        <li><a href="https://www.instagram.com/foto_incredible__/"><ion-icon name="logo-instagram"></ion-icon></a></li>
+    </ul>
+
+    <ul class="menu">
+        <li><a href="home.html">Home</a></li>
+        <li><a href="portfolio.html">Portfolio</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+    </ul>
+
+    <p>@2022 Parul Sancheti | All Rights Reserved</p>
+    
+</footer>
+<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons/js"></script>
+
+</html>
