@@ -1,0 +1,204 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Focus Photography </title>
+    <link rel="shortcut icon" type="image/png" href="images/favicon.png">
+
+    <link rel="stylesheet" href="css/slide.css">
+
+</head>
+<body>
+    
+    <header>
+        <a href="portfolio.html" class="logo">Go back</a>
+    </header>
+
+    <div class="slider">
+        <input type="radio" name="slider" checked="checked">
+        <div class="imgBx">
+            <img src="images/a1.JPG">
+            <div class="content">
+                <h2>01</h2>
+                <p>Can I open my eyes yet?</p>
+                <a href="images/a1.JPG"> View image</a>
+
+
+            </div>
+        </div>
+        <input type="radio" name="slider">
+        <div class="imgBx">
+            <img src="images/a2.jpg">
+            <div class="content">
+                <h2>02</h2>
+                <p>An owl not asleep</p>
+                <a href="images/a2.jpg"> View image</a>
+
+            </div>
+        </div>
+        <input type="radio" name="slider">
+        <div class="imgBx">
+            <img src="images/a3.JPG">
+            <div class="content">
+                <h2>03</h2>
+                <p>The mysterious playground in the forest</p>
+                <a href="images/a3.JPG"> View image</a>
+
+            </div>
+        </div>
+        <input type="radio" name="slider">
+        <div class="imgBx">
+            <img src="images/a4.JPG">
+            <div class="content">
+                <h2>04</h2>
+                <p>A relaxing stroll in the lake</p>
+                <a href="images/a4.JPG"> View image</a>
+
+            </div>
+        </div>
+        <input type="radio" name="slider">
+        <div class="imgBx">
+            <img src="images/a5.JPG">
+            <div class="content">
+                <h2>05</h2>
+                <p>The Chinese blossom outside China</p>
+                <a href="images/a5.JPG"> View image</a>
+
+            </div>
+        </div>
+        <input type="radio" name="slider">
+        <div class="imgBx">
+            <img src="images/a6.jpg">
+            <div class="content">
+                <h2>06</h2>
+                <p>A sight for the seagulls</p>
+                <a href="images/a6.jpg"> View image</a>
+
+            </div>
+        </div>
+        <input type="radio" name="slider">
+        <div class="imgBx">
+            <img src="images/a7.JPG">
+            <div class="content">
+                <h2>07</h2>
+                <p>Friends find food together</p>
+                <a href="images/a7.JPG"> View image</a>
+
+            </div>
+        </div>
+        <input type="radio" name="slider">
+        <div class="imgBx">
+            <img src="images/a8.jpg">
+            <div class="content">
+                <h2>08</h2>
+                <p>The swimming bird</p>
+                <a href="images/a8.jpg"> View image</a>
+
+            </div>
+        </div>
+        <input type="radio" name="slider">
+        <div class="imgBx">
+            <img src="images/a9.jpg">
+            <div class="content">
+                <h2>09</h2>
+                <p>The evening light can't escape</p>
+                <a href="images/a9.jpg"> View image</a>
+
+            </div>
+        </div>
+        <input type="radio" name="slider">
+        <div class="imgBx">
+            <img src="images/a10.JPG">
+            <div class="content">
+                <h2>10</h2>
+                <p>A routine stroll</p>
+                <a href="images/a10.JPG"> View image</a>
+            </div>
+        </div>
+        <input type="radio" name="slider">
+        <div class="imgBx">
+            <img src="images/a11.jpg">
+            <div class="content">
+                <h2>11</h2>
+                <p>The man who attracts- the million dollar man</p>
+                <a href="images/a11.jpg"> View image</a>
+
+            </div>
+        </div>
+        <input type="radio" name="slider">
+        <div class="imgBx">
+            <img src="images/a12.JPG">
+            <div class="content">
+                <h2>12</h2>
+                <p>Mother won't be here with us forever </p>
+                <a href="images/a12.JPG"> View image</a>
+
+            </div>
+        </div>
+        <input type="radio" name="slider">
+        <div class="imgBx">
+            <img src="images/a13.JPG">
+            <div class="content">
+                <h2>13</h2>
+                <p>The search for a filled head with no agitation</p>
+                <a href="images/a13.JPG"> View image</a>
+
+            </div>
+        </div>
+        <input type="radio" name="slider">
+        <div class="imgBx">
+            <img src="images/a14.JPG">
+            <div class="content">
+                <h2>14</h2>
+                <p>The sky looks back at us too</p>
+                <a href="images/a14.JPG"> View image</a>
+
+            </div>
+        </div>
+        <input type="radio" name="slider">
+        <div class="imgBx">
+            <img src="images/a15.JPG">
+            <div class="content">
+                <h2>15</h2>
+                <p>My next wallpaper</p>
+                <a href="images/a15.JPG"> View image</a>
+
+            </div>
+        </div>
+    </div>
+
+
+    
+</body>
+
+
+<footer>
+    <div class="waves">
+        <div class="wve" id="wve1"></div>
+        <div class="wve" id="wve2"></div>
+        <div class="wve" id="wve3"></div>
+        <div class="wve" id="wve4"></div>
+    </div>
+
+    <ul class="socials">
+      
+        <li><a href="https://www.instagram.com/foto_incredible__/"><ion-icon name="logo-instagram"></ion-icon></a></li>
+    </ul>
+
+    <ul class="menu">
+        <li><a href="home.html">Home</a></li>
+        <li><a href="portfolio.html">Portfolio</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+    </ul>
+
+    <p>@2022 Parul Sancheti | All Rights Reserved</p>
+    
+</footer>
+<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons/js"></script>
+
+</html>
